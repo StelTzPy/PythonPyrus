@@ -15,3 +15,5 @@ The prank is harmless in intent and doesn’t cause actual damage—just an illu
 
 Disclaimer:
 Pyrus is strictly for educational and entertainment purposes. It should never be used on someone’s machine without clear consent. Scripts that freeze input or imitate system failures can be interpreted as malware or scareware. Always respect the legal and ethical boundaries of programming.
+
+![bsod7](https://github.com/user-attachments/assets/718c8768-17d8-46de-9d3d-81d884fa64d8)
